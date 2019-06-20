@@ -117,18 +117,3 @@ void BL::print_bl()
   //}
 }
 
-/*
-  //for(int i = 0; i < N; i++)
-  //{
-  //  cout <<         setw(2) << i+1
-  //       <<  ' ' << std::fixed
-  //               << setprecision(3)
-  //               << setw(8)
-  //               << tcell
-  //       <<  ' ' << setw(8) << plt
-  //       << endl;
-
-  //  //tcell *= SR;
-  //  //plt += tcell;
-  //}
-*/
